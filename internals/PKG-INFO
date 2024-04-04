@@ -1,0 +1,18 @@
+Metadata-Version: 1.2
+Name: time_tools
+Version: 1.0.0
+Summary: Time tools for python
+Home-page: https://github.com/danybeam/time_tools
+Author: danybeam
+Author-email: danybeam@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+Description: 
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6.0
