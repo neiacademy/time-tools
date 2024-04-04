@@ -1,3 +1,3 @@
 # Time Tools
-[![Contributor Covenant](https://img.shields.io/badge/Contributor)
+![Contributor Covenant](https://img.shields.io/badge/Contributor)
 
